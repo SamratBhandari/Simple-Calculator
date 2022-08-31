@@ -1,0 +1,15 @@
+C:\Projects\lecture\bin\Debug\net6.0\lecture.exe
+C:\Projects\lecture\bin\Debug\net6.0\lecture.deps.json
+C:\Projects\lecture\bin\Debug\net6.0\lecture.runtimeconfig.json
+C:\Projects\lecture\bin\Debug\net6.0\lecture.dll
+C:\Projects\lecture\bin\Debug\net6.0\lecture.pdb
+C:\Projects\lecture\obj\Debug\net6.0\lecture.csproj.AssemblyReference.cache
+C:\Projects\lecture\obj\Debug\net6.0\lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\lecture\obj\Debug\net6.0\lecture.AssemblyInfoInputs.cache
+C:\Projects\lecture\obj\Debug\net6.0\lecture.AssemblyInfo.cs
+C:\Projects\lecture\obj\Debug\net6.0\lecture.csproj.CoreCompileInputs.cache
+C:\Projects\lecture\obj\Debug\net6.0\lecture.dll
+C:\Projects\lecture\obj\Debug\net6.0\refint\lecture.dll
+C:\Projects\lecture\obj\Debug\net6.0\lecture.pdb
+C:\Projects\lecture\obj\Debug\net6.0\lecture.genruntimeconfig.cache
+C:\Projects\lecture\obj\Debug\net6.0\ref\lecture.dll
