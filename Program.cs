@@ -8,4 +8,4 @@ Console.WriteLine (p2.x);
 p1.x = 9;
 Console.WriteLine (p1.x);
 Console.WriteLine (p2.x);
-public class Point {public int x, y; }
+public struct Point {public int x, y; }
