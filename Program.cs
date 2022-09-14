@@ -1,11 +1,11 @@
-﻿
-
-Point p1 = new Point();
-p1.x = 7;
-Point p2 = p1;
-Console.WriteLine (p1.x);
-Console.WriteLine (p2.x);
-p1.x = 9;
-Console.WriteLine (p1.x);
-Console.WriteLine (p2.x);
-public struct Point {public int x, y; }
+﻿using System;
+int number1, number2, result, action;
+Console.WriteLine("Enter Your First Number");
+number1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter Your Second Number");
+number2 = int.Parse(Console.ReadLine());
+result = 0;
+Console.WriteLine("1 For Addition");
+Console.WriteLine("2 For Substraction");
+Console.WriteLine("3 For Muliplication");
+Console.WriteLine("4 For Division");
