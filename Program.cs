@@ -31,3 +31,36 @@ int Division(int number1, int number2)
     return result;
 }
 Console.WriteLine("The result is {0}", result);
+switch (action)
+{
+    case 1:
+        {
+            result = Addition(number1, number2);
+
+            break;
+        }
+    case 2:
+        {
+            result = Substraction(number1, number2);
+            break;
+        }
+    case 3:
+        {
+            result = Multiplication(number1, number2);
+            break;
+        }
+    case 4:
+        {
+            result = Division(number1, number2);
+            break;
+        }
+    default:
+        Console.WriteLine("Sorry Wrong Action");
+        break;
+}
+
+if (result != 0)
+{
+    Console.WriteLine("The result is {0}", result);
+}
+
